@@ -122,5 +122,5 @@
               "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('appservice-mean-google-mapName'))]"
           }
       }
-      ]
+    ]
 }
