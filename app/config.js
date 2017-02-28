@@ -5,7 +5,7 @@ module.exports = {
     mongolab:
     {
         name: "scotch-user-map-ec2",
-        url: "mongodb://scotch:scotchrocks@ds051853.mongolab.com:51853/mean-map-app",
+        url: "mongodb://mongodb007:BwBsg9wzk5wEzmNgJFvE7DUMb3q0xfPiPrguEEl0x4GSoIG0wMkF5MgaBoTdnUwLeDIMdDNpkEfqOjF4mn2Jmw==@mongodb007.documents.azure.com:10250/?ssl=true",
         port: 27017
     },
 
