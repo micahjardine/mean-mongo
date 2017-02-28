@@ -1,8 +1,8 @@
-web:
+ web:
 
   build: .
 
-  links:
+  links: .
 
 
   ports:
